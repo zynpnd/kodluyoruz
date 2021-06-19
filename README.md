@@ -1,7 +1,7 @@
 ## Kodluyoruz
 
 Patika.Dev Frontend Web Development Patikası eğitimi ile paralel ilerlemektedir.
-Patika.Dev gitmek için buraya [tıklayın](https://app.patika.dev/)
+Patika.Dev gitmek için buraya [tıklayın.](https://app.patika.dev/)
 
 
 
