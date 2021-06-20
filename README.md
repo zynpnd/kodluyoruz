@@ -11,3 +11,7 @@ Patika.Dev gitmek için buraya [tıklayın.](https://app.patika.dev/)
 Ödev 2 - Kişisel Sayfamızı Detaylandırmaya Devam Etmek
 
 Ödev 3 - Google Ana Sayfasını Tasarlamak
+
+Bölüm Sonu  Çalışması
+
+Bunu P[atika.Dev](https://www.patika.dev/) adresinden izleyerek yapabilirsiniz.
