@@ -14,4 +14,4 @@ Patika.Dev gitmek için buraya [tıklayın.](https://app.patika.dev/)
 
 Bölüm Sonu  Çalışması
 
-Bunu P[atika.Dev](https://www.patika.dev/) adresinden izleyerek yapabilirsiniz.
+Bunu [patika.dev](https://www.patika.dev/) adresinden izleyerek yapabilirsiniz.
